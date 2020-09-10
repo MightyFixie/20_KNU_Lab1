@@ -9,6 +9,7 @@ namespace GitLab {
         static void Main(string[] args) {
             Console.ForegroundColor = ConsoleColor.DarkBlue;
             Console.WriteLine("Done!");
+            Console.WriteLine("Git rules!");
             Console.ReadKey();
         }
     }
